@@ -36,7 +36,7 @@ CSS3, React, Node.js, PostgreSQL, RESTful APIs, algorithms, and data structures.
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          Digital Operations Manager - Google (YouTube)
+          Media Operations Manager - Google (YouTube)
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Los Angeles, CA
@@ -52,7 +52,7 @@ CSS3, React, Node.js, PostgreSQL, RESTful APIs, algorithms, and data structures.
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Program Manager - Netflix
+            Program Manager, Ad Technology - Netflix
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Los Angeles, CA
@@ -143,7 +143,7 @@ commercial radio station websites and their associated internet radio streaming 
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2006 - 2010"
+          date="2010"
           iconStyle={{ background: "#231942", color: "#fff" }}
           icon={<SchoolIcon />}
         >

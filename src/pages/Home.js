@@ -1,17 +1,31 @@
 import React from "react";
+import avatar from "../assets/avatar.png"
 import EmailIcon from "@mui/icons-material/Email";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LogoDevIcon from "@mui/icons-material/LogoDev";
+import AssignmentIndIcon from "@mui/icons-material/AssignmentInd"; 
+import ResumePDF from "../assets/keri-medeiros-resume.pdf"; 
 import "../styles/Home.css";
 
 function Home() {
   return (
     <div className="home">
       <div className="about">
+      <img alt="keri avatar" src={avatar}/>
         <h2>Hi there, I'm Keri.</h2>
         <div className="prompt">
-          <p>I'm a software developer with a background in digital marketing.</p>
+          <p>I'm a software developer with a background in digital marketing & advertising technology.</p>
+          
+          <a
+          href={ResumePDF}
+          download="keri-medeiros-resume"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <AssignmentIndIcon title="Download PDF" />
+        </a>
+
           <a
             href="mailto:kerimedeiros@gmail.com"
             target="_blank"
