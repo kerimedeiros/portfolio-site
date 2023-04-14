@@ -1,9 +1,9 @@
 import Project1 from "../assets/restaurant-reservation-demo.gif"
 import Project2 from "../assets/we-love-movies-demo.gif"; 
 import Project3 from "../assets/flashcard-app-demo.gif"; 
-//import Project4 from "../assets/TBD; 
-//import Project5 from "../assets/TBD; 
-//import Project6 from "../assets/TBD; 
+import Project4 from "../assets/decoder-ring-demo.gif"; 
+import Project5 from "../assets/open-ai-img-demo.gif"; 
+import Project6 from "../assets/qr-code-demo.gif"; 
 
 
 export const ProjectList = [
@@ -27,19 +27,19 @@ export const ProjectList = [
     }, 
     {
         name: "Encryption/Decryption App",
-        image: Project1,
+        image: Project4,
         skills: "JavaScript, React, HTML, CSS",
         link:"https://github.com/kerimedeiros/decoder-ring"
     }, 
     {
         name: "OpenAI Image Generator",
-        image: Project1,
+        image: Project5,
         skills: "OpenAI Images API (DALL-E), JavaScript, Node.js, HTML, CSS",
         link:"https://github.com/kerimedeiros/open-ai-image-generator"
     }, 
     {
         name: "QR Code Generator",
-        image: Project1,
+        image: Project6,
         skills: "JavaScript, HTML, CSS",
         link:"https://github.com/kerimedeiros/qr-code-generator"
     }, 
