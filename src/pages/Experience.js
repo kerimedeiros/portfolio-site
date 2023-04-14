@@ -25,8 +25,9 @@ function Experience() {
             Learned industry best practices and software development standards
             with a focus on JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL,
             RESTful APIs, algorithms, and data structures while collaborating
-            with senior web developers in a mentor-student relationship. Worked towards gaining the necessary technical skills to make a career pivot into software
-            engineering.
+            with senior web developers in a mentor-student relationship. Worked
+            towards gaining the necessary technical skills to make a career
+            pivot into software engineering.
           </p>
         </VerticalTimelineElement>
 
@@ -68,8 +69,8 @@ function Experience() {
             Promoted to Program Manager. Led trainings and conducted user
             acceptance tests for new product feature releases for internal
             marketing technology tools used by the entire Netflix Global
-            Marketing Operations org. Managed ad tech integrations with
-            external partners such as Google, YouTube, Facebook, and Twitter.
+            Marketing Operations org. Managed ad tech integrations with external
+            partners such as Google, YouTube, Facebook, and Twitter.
           </p>
         </VerticalTimelineElement>
 
@@ -89,8 +90,9 @@ function Experience() {
             Collaborated with Product, Engineering, and Data Science teams to
             develop machine-learning powered marketing technology tools capable
             of producing 500K+ unique variations of dynamically assembled
-            digital ad creatives promoting Netflix content in 50+ languages to support digital marketing campaigns with paid media budgets
-            of $500MM+.
+            digital ad creatives promoting Netflix content in 50+ languages to
+            support digital marketing campaigns with paid media budgets of
+            $500MM+.
           </p>
         </VerticalTimelineElement>
 
@@ -127,8 +129,9 @@ function Experience() {
             Responsible for digital ad configuration/setup, tracking pixel
             implementation, ad quality QA, and technical troubleshooting for
             digital marketing campaigns using DataXu’s ad technology software.
-            Oversaw third-party ad server software certification processes and integrated DataXu's ad technology stack with more than
-            30 ad technology partners, including Google, Facebook, and Yahoo.
+            Oversaw third-party ad server software certification processes and
+            integrated DataXu's ad technology stack with more than 30 ad
+            technology partners, including Google, Facebook, and Yahoo.
           </p>
         </VerticalTimelineElement>
 

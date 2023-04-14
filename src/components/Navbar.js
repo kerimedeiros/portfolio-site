@@ -15,7 +15,10 @@ function Navbar() {
   return (
     <div className="navbar" id={expandNavbar ? "open" : "close"}>
       <div className="toggleButton">
-        <button onClick={() => setExpandNavbar((prev) => !prev)}> <ReorderIcon /> </button>
+        <button onClick={() => setExpandNavbar((prev) => !prev)}>
+        
+          <ReorderIcon />
+        </button>
       </div>
       <div className="links">
         <Link to="/"> Home </Link>
@@ -23,7 +26,7 @@ function Navbar() {
         <Link to="/experience"> Experience </Link>
       </div>
     </div>
-  )
+  );
 }
 
 export default Navbar;
