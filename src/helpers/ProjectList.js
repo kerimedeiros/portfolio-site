@@ -3,7 +3,7 @@ import Project2 from "../assets/we-love-movies-demo.gif";
 import Project3 from "../assets/flashcard-app-demo.gif";
 import Project4 from "../assets/decoder-ring-demo.gif";
 import Project5 from "../assets/open-ai-img-demo.gif";
-import Project6 from "../assets/qr-code-demo.gif";
+import Project6 from "../assets/qr-code-demo-2.gif";
 
 export const ProjectList = [
   {
