@@ -76,7 +76,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="Feb 2016 - Mar 2018"
           iconStyle={{ background: "#6B2D5B", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -98,7 +98,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Sept 2015 - Febr 2016"
+          date="Sep 2015 - Feb 2016"
           iconStyle={{ background: "#6B2D5B", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -117,7 +117,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="January 2014 - February 2016"
+          date="Jan 2014 - Feb 2016"
           iconStyle={{ background: "#6B2D5B", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -137,7 +137,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="June 2012 - February 2016"
+          date="Jun 2012 - May 2013"
           iconStyle={{ background: "#6B2D5B", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -156,7 +156,7 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="November 2010 - June 2012"
+          date="Nov 2010 - Jun 2012"
           iconStyle={{ background: "#6B2D5B", color: "#fff" }}
           icon={<WorkIcon />}
         >
