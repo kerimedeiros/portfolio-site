@@ -1,4 +1,9 @@
-import Project1 from "../assets/TEST_GIF.gif"; 
+import Project1 from "../assets/restaurant-reservation-demo.gif"
+import Project2 from "../assets/we-love-movies-demo.gif"; 
+import Project3 from "../assets/flashcard-app-demo.gif"; 
+//import Project4 from "../assets/TBD; 
+//import Project5 from "../assets/TBD; 
+//import Project6 from "../assets/TBD; 
 
 
 export const ProjectList = [
@@ -10,13 +15,13 @@ export const ProjectList = [
     }, 
     {
         name: "We Love Movies API",
-        image: Project1,
+        image: Project2,
         skills: "PostgreSQL, Node.js, Express.js, Knex.js, CORS",
         link:"https://github.com/kerimedeiros/we-love-movies"
     }, 
     {
         name: "Flashcard Tool",
-        image: Project1,
+        image: Project3,
         skills: "JavaScript, React, HTML, CSS",
         link:"https://github.com/kerimedeiros/flashcard-app"
     }, 
