@@ -32,7 +32,7 @@
   font-size: 50px;
   margin: 5px;
   color: white;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
 }
 
 .skills {
@@ -66,7 +66,7 @@
     margin-top: 10px;
     font-size: 20px;
     width: 80%;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
   }
 
   .skills {
@@ -82,7 +82,7 @@
 }
 
 img {
-  padding-top: 20px;
+  padding-top: 60px;
   height: 200px;
   
 }
