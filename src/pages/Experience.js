@@ -13,7 +13,26 @@ function Experience() {
       <VerticalTimeline lineColor="#231942">
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Apr 2023 - Present"
+          date="June 2023 - Present"
+          iconStyle={{ background: '#6B2D5B', color: '#fff' }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Support Engineer - Rebuy Engine
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Remote/Distributed
+          </h4>
+          <p>
+            Rebuy is a SaaS application that is redefining data-powered shopping
+            experiences with a new breed of personalization and merchandizing
+            solutions, which turn intelligence into revenue-generating actions.
+          </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="Apr 2023 - June 2023"
           iconStyle={{ background: '#6B2D5B', color: '#fff' }}
           icon={<WorkIcon />}
         >
@@ -24,11 +43,11 @@ function Experience() {
             Los Angeles, CA
           </h4>
           <p>
-            Actively contributes to the development of the HackForLA.org
+            Actively contributed to the development of the HackForLA.org
             website, facilitating the non-profit organization's communication
-            with volunteers, stakeholders, and donors. Collaborates with a
+            with volunteers, stakeholders, and donors. Collaborated with a
             distributed team of volunteer developers to implement bug fixes and
-            feature requests. Reviews pull requests and provides feedback to
+            feature requests. Reviewed pull requests and provides feedback to
             improve code clarity, maintainability, and functionality.
           </p>
         </VerticalTimelineElement>
@@ -109,12 +128,10 @@ function Experience() {
             San Francisco, CA
           </h4>
           <p>
-            Collaborated with Product, Engineering, and Data Science teams to
-            develop machine-learning powered marketing technology tools capable
-            of producing 500K+ unique variations of dynamically assembled
-            digital ad creatives promoting Netflix content in 50+ languages to
-            support digital marketing campaigns with paid media budgets of
-            $500MM+.
+            Collaborated with Product and Engineering teams to develop
+            machine-learning powered marketing technology tools capable of
+            producing 500K+ unique variations of highly targeted dynamic ads
+            promoting Netflix content in 30+ languages across ~190 countries.
           </p>
         </VerticalTimelineElement>
 
@@ -133,7 +150,7 @@ function Experience() {
             cross-platform programmatic marketing campaigns using in-house ad
             technology software to support 50+ clients with digital media
             budgets exceeding $10MM+. Served as technical point of contact for
-            ad creative issues related and campaign performance issues.
+            ad creative issues related to campaign performance issues.
           </p>
         </VerticalTimelineElement>
 
