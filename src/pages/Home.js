@@ -16,8 +16,8 @@ function Home() {
         <h2>Keri Medeiros</h2>
         <div className="prompt">
           <p>
-            Full stack software developer with a background in digital marketing
-            & advertising technology.
+            Curiosity-driven Software Support Engineer motivated by solving
+            challenging problems and improving inefficient workflows.
           </p>
 
           <a
@@ -64,7 +64,10 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Frontend</h2>
-            <span>HTML, CSS, Tailwind, Bootstrap, JavaScript, React</span>
+            <span>
+              HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, Liquid
+              (Shopify)
+            </span>
           </li>
           <li className="item">
             <h2>Backend</h2>
@@ -75,8 +78,8 @@ function Home() {
             <span>
               Test-Driven Development (Mocha, Chai, Jest), Vercel, Git/GitHub,
               Visual Studio Code, Node Package Manager, Salesforce, Zendesk,
-              Project Management Systems (Jira, Trello, Basecamp), Google Ad
-              Manager & AdWords
+              Intercom, Project Management Systems (Jira, Trello, Basecamp),
+              Google Ad Manager & AdWords, Shopify
             </span>
           </li>
         </ol>
