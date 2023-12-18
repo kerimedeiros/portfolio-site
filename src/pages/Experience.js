@@ -24,9 +24,13 @@ function Experience() {
             Remote/Distributed
           </h4>
           <p>
-            Rebuy is a SaaS application that is redefining data-powered shopping
-            experiences with a new breed of personalization and merchandizing
-            solutions, which turn intelligence into revenue-generating actions.
+            Responsible for troubleshooting and resolving technical issues to
+            support high-growth merchants/brands in the e-commerce space
+            (Shopify). Collaborates closely with Product and Engineering teams
+            to conduct user acceptance testing, identify platform bugs, and
+            gather user feedback to improve product development for the Rebuy
+            Engine app. Assists in updating product documentation and refining
+            Support Team operational processes.
           </p>
         </VerticalTimelineElement>
 
