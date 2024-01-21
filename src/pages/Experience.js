@@ -51,7 +51,7 @@ function Experience() {
             website, facilitating the non-profit organization's communication
             with volunteers, stakeholders, and donors. Collaborated with a
             distributed team of volunteer developers to implement bug fixes and
-            feature requests. Reviewed pull requests and provides feedback to
+            feature requests. Reviewed pull requests and provided feedback to
             improve code clarity, maintainability, and functionality.
           </p>
         </VerticalTimelineElement>
@@ -105,7 +105,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Program Manager, Ad Technology - Netflix
+            Program Manager, Marketing Technology & Operations - Netflix
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Los Angeles, CA
