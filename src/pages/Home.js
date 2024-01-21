@@ -16,8 +16,9 @@ function Home() {
         <h2>Keri Medeiros</h2>
         <div className="prompt">
           <p>
-            Software Support Engineer with a background in Operations and
-            Program Management
+            Support engineer skilled in resolving complex technical issues,
+            optimizing operational processes, and user-centric customer
+            advocacy.
           </p>
 
           <a
