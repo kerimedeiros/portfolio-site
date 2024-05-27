@@ -1,7 +1,7 @@
 import Project1 from '../assets/restaurant-reservation-demo.gif';
 import Project2 from '../assets/we-love-movies-demo.gif';
 import Project3 from '../assets/flashcard-app-demo.gif';
-import Project4 from '../assets/decoder-ring-demo.gif';
+import Project4 from '../assets/ecommerce-site-demo.gif';
 import Project5 from '../assets/open-ai-img-demo.gif';
 import Project6 from '../assets/qr-code-demo-2.gif';
 
@@ -25,10 +25,10 @@ export const ProjectList = [
     link: 'https://github.com/kerimedeiros/flashcard-app',
   },
   {
-    name: 'Encryption/Decryption App',
+    name: 'Flowmazon: Ecommerce website storefront',
     image: Project4,
-    skills: 'JavaScript, React, HTML, CSS',
-    link: 'https://github.com/kerimedeiros/decoder-ring',
+    skills: 'TypeScript, Next.js, DaisyUI, Prisma, MongoDB',
+    link: 'https://github.com/kerimedeiros/nextjs-ecommerce-project',
   },
   {
     name: 'OpenAI Image Generator',
