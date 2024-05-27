@@ -1,34 +1,34 @@
-import Project1 from '../assets/restaurant-reservation-demo.gif';
-import Project2 from '../assets/we-love-movies-demo.gif';
-import Project3 from '../assets/flashcard-app-demo.gif';
-import Project4 from '../assets/ecommerce-site-demo.gif';
+import Project1 from '../assets/ecommerce-site-demo.gif';
+import Project2 from '../assets/restaurant-reservation-demo.gif';
+import Project3 from '../assets/we-love-movies-demo.gif';
+import Project4 from '../assets/flashcard-app-demo.gif';
 import Project5 from '../assets/open-ai-img-demo.gif';
 import Project6 from '../assets/qr-code-demo-2.gif';
 
 export const ProjectList = [
   {
-    name: 'Restaurant Reservation System',
+    name: 'Flowmazon: Ecommerce website storefront',
     image: Project1,
+    skills: 'TypeScript, Next.js, DaisyUI, Prisma, MongoDB',
+    link: 'https://github.com/kerimedeiros/nextjs-ecommerce-project',
+  },
+  {
+    name: 'Restaurant Reservation System',
+    image: Project2,
     skills: 'JavaScript, React, Node.js, Express.js, Knex.js, PostgreSQL',
     link: 'https://github.com/kerimedeiros/restaurant-reservation-app',
   },
   {
     name: 'We Love Movies API',
-    image: Project2,
+    image: Project3,
     skills: 'PostgreSQL, Node.js, Express.js, Knex.js, CORS',
     link: 'https://github.com/kerimedeiros/we-love-movies',
   },
   {
     name: 'Flashcard Tool',
-    image: Project3,
+    image: Project4,
     skills: 'JavaScript, React, HTML, CSS',
     link: 'https://github.com/kerimedeiros/flashcard-app',
-  },
-  {
-    name: 'Flowmazon: Ecommerce website storefront',
-    image: Project4,
-    skills: 'TypeScript, Next.js, DaisyUI, Prisma, MongoDB',
-    link: 'https://github.com/kerimedeiros/nextjs-ecommerce-project',
   },
   {
     name: 'OpenAI Image Generator',
