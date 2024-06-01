@@ -150,11 +150,11 @@ function Experience() {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Boston, MA</h4>
           <p>
-            Promoted to Team Lead. Managed the launch and performance of
-            cross-platform programmatic marketing campaigns using in-house ad
-            technology software to support 50+ clients with digital media
-            budgets exceeding $10MM+. Served as technical point of contact for
-            ad creative issues related to campaign performance issues.
+            Promoted to Team Lead. Managed the technical setup, launch, and
+            performance of cross-platform programmatic marketing campaigns using
+            in-house ad technology software to support 50+ clients with digital
+            media budgets exceeding $10MM+. Served as technical point of contact
+            for ad creative issues impacting campaign performance.
           </p>
         </VerticalTimelineElement>
 
