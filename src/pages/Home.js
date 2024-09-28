@@ -15,10 +15,7 @@ function Home() {
         <img alt="keri avatar" src={avatar} />
         <h2>Keri Medeiros</h2>
         <div className="prompt">
-          <p>
-            Software Support Engineer with a background in Operations and
-            Program Management
-          </p>
+          <p>Software Support Engineer</p>
 
           <a
             href={ResumePDF}

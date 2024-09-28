@@ -41,7 +41,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Developer (Volunteer) - Hack for LA
+            Software Development Volunteer - Hack for LA
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Los Angeles, CA
