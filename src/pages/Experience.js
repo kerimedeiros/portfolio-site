@@ -21,7 +21,7 @@ function Experience() {
             Software Support Engineer - Rebuy Engine
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Remote/Distributed
+            Remote / Distributed
           </h4>
           <p>
             Responsible for troubleshooting and resolving technical issues to
@@ -44,7 +44,7 @@ function Experience() {
             Software Development Volunteer - Hack for LA
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Los Angeles, CA
+            Remote / Southern California (US)
           </h4>
           <p>
             Actively contributed to the development of the HackForLA.org
@@ -65,7 +65,9 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             Thinkful - Software Engineering Program
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">Online</h4>
+          <h4 className="vertical-timeline-element-subtitle">
+            Remote / Southern California (US)
+          </h4>
           <p>
             Learned industry best practices and software development standards
             with a focus on JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL,
@@ -86,7 +88,7 @@ function Experience() {
             Digital Operations Manager - Google (YouTube)
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Los Angeles, CA
+            Remote / Southern California (US)
           </h4>
           <p>
             Managed digital media launch operations for subscription and
