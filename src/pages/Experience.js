@@ -83,7 +83,7 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Media Operations Manager - Google (YouTube)
+            Digital Operations Manager - Google (YouTube)
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Los Angeles, CA
