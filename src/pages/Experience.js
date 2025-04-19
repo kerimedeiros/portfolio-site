@@ -42,34 +42,12 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">Remote</h4>
           <p>
             Responsible for troubleshooting and resolving technical issues to
-            support high-growth merchants/brands in the e-commerce space
-            (Shopify). Collaborated closely with Product and Engineering teams
-            to conduct user acceptance testing, identify platform bugs, and
-            gather user feedback to improve product development for the Rebuy
-            Engine app. Assisted in updating product documentation and refining
-            Support Team operational processes.
-          </p>
-        </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="Apr 2023 - June 2023"
-          iconStyle={{ background: '#6B2D5B', color: '#fff' }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Software Development Volunteer - Hack for LA
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Remote / Southern California (US)
-          </h4>
-          <p>
-            Actively contributed to the development of the HackForLA.org
-            website, facilitating the non-profit organization's communication
-            with volunteers, stakeholders, and donors. Collaborated with a
-            distributed team of volunteer developers to implement bug fixes and
-            feature requests. Reviewed pull requests and provided feedback to
-            improve code clarity, maintainability, and functionality.
+            support high-growth brands in the e-commerce space (Shopify).
+            Collaborated closely with Product and Engineering teams to conduct
+            user acceptance testing, identify platform bugs, and gather user
+            feedback to improve product development for the Rebuy Engine app.
+            Assisted in updating product documentation and refining Support Team
+            operational processes.
           </p>
         </VerticalTimelineElement>
 
@@ -86,12 +64,11 @@ function Experience() {
             Remote / Southern California (US)
           </h4>
           <p>
-            Learned industry best practices and software development standards
-            with a focus on JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL,
-            RESTful APIs, algorithms, and data structures while collaborating
-            with senior web developers in a mentor-student relationship. Worked
-            towards gaining the necessary technical skills to make a career
-            pivot into software engineering.
+            Pursued a career pivot into software development and technical
+            support by building up hands-on experience and technical skills.
+            Focused on industry best practices and modern development standards,
+            including JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL,
+            RESTful APIs, algorithms, and data structures.
           </p>
         </VerticalTimelineElement>
 
