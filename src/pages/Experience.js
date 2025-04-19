@@ -13,23 +13,40 @@ function Experience() {
       <VerticalTimeline lineColor="#231942">
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="June 2023 - Present"
+          date="April 2025 - Present"
           iconStyle={{ background: '#6B2D5B', color: '#fff' }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Software Support Engineer - Rebuy Engine
+            Support Engineer - Confiant
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Remote / Distributed
-          </h4>
+          <h4 className="vertical-timeline-element-subtitle">Remote</h4>
+          <p>
+            Support clients and customer-facing teams on all technical matters
+            related to Confiant, a cybersecurity ad tech company that delivers
+            real-time detection and prevention of malvertising, disruptive
+            creatives, and privacy-compromising threats across the digital
+            advertising ecosystem.
+          </p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="June 2023 - Apr 2025"
+          iconStyle={{ background: '#6B2D5B', color: '#fff' }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Support Engineer - Rebuy Engine
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">Remote</h4>
           <p>
             Responsible for troubleshooting and resolving technical issues to
             support high-growth merchants/brands in the e-commerce space
-            (Shopify). Collaborates closely with Product and Engineering teams
+            (Shopify). Collaborated closely with Product and Engineering teams
             to conduct user acceptance testing, identify platform bugs, and
             gather user feedback to improve product development for the Rebuy
-            Engine app. Assists in updating product documentation and refining
+            Engine app. Assisted in updating product documentation and refining
             Support Team operational processes.
           </p>
         </VerticalTimelineElement>
