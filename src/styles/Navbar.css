@@ -1,10 +1,22 @@
 .navbar {
   width: 100%;
-  height: 75px;
-  background: #231942;
+  height: 90px; /* match h2 visual weight better */
+  background: #100328;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-top: 5px; /* slight visual nudge */
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+  font-size: 32px;
+  line-height: 1;
+  padding-top: 4px; /* aligns better with h2 */
+  display: flex;
+  align-items: center;
 }
 
 .icon {
@@ -19,13 +31,6 @@
   align-items: center;
   justify-content: center;
   color: white;
-}
-
-.navbar a {
-  color: white;
-  text-decoration: none;
-  margin: 20px;
-  font-size: 25px;
 }
 
 .toggleButton {

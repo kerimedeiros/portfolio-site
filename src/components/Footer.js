@@ -48,7 +48,7 @@ function Footer() {
           <LogoDevIcon />
         </a>
       </div>
-      <p> &copy; 2024 Keri Medeiros</p>
+      <p> &copy; 2025 Keri Medeiros</p>
     </div>
   );
 }

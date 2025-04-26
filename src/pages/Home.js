@@ -15,7 +15,7 @@ function Home() {
         <img alt="keri avatar" src={avatar} />
         <h2>Keri Medeiros</h2>
         <div className="prompt">
-          <p>Software Support Engineer</p>
+          <p>Technical Support Engineer</p>
 
           <a
             href={ResumePDF}
@@ -68,15 +68,28 @@ function Home() {
           </li>
           <li className="item">
             <h2>Backend</h2>
-            <span>Node.js, Express.js, Knex.js, PostgreSQL, RESTful APIs</span>
+            <span>Node.js, Postgres, MySQL, RESTful APIs</span>
           </li>
           <li className="item">
             <h2>Tools</h2>
             <span>
-              Test-Driven Development (Mocha, Chai, Jest), Vercel, Git/GitHub,
-              Visual Studio Code, Node Package Manager, Salesforce, Zendesk,
-              Intercom, Project Management Systems (Jira, Trello, Basecamp),
-              Google Ad Manager & AdWords, Shopify
+              <p>
+                <strong>Development</strong> — Git, GitHub, Visual Studio Code,
+                NPM, Postman
+              </p>
+              <p>
+                <strong>Ticketing & Support Systems</strong> — Salesforce,
+                Zendesk, Intercom, HubSpot
+              </p>
+              <p>
+                <strong>Project Management & Technical Documentation</strong> —
+                Jira, Confluence, ReadMe, Airtable
+              </p>
+              <p>
+                <strong>Digital Marketing & Advertising Technology</strong> —
+                Display & Video 360 (DV360), Google Ad Manager, Meta Ads
+                Manager, and other Ad Serving & Campaign Management Platforms
+              </p>
             </span>
           </li>
         </ol>

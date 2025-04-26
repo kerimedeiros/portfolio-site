@@ -1,8 +1,8 @@
 .home {
   width: 100%;
   align-items: center;
-  font-family: "Arial", sans-serif;
-  color: #231942;
+  font-family: 'Arial', sans-serif;
+  color: #06031e;
 }
 
 .about {
@@ -13,14 +13,14 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #231942;
+  background-color: #100328;
   color: #f0f0f0;
 }
 
 .about h2 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 60px;
-  color: #fffade;
+  color: #7671f0;
   height: 50px;
 }
 
@@ -45,12 +45,17 @@
 }
 
 .skills h1 {
-  color: #231942;
+  color: #100328;
 }
 
 .skills .list {
   list-style: none;
   width: 60%;
+}
+
+.skills .list h2,
+.skills .list span {
+  color: #100328;
 }
 
 .list span {
@@ -83,6 +88,5 @@
 
 img {
   padding-top: 60px;
-  height: 200px;
-  
+  height: 300px;
 }
