@@ -48,7 +48,16 @@ function Footer() {
           <LogoDevIcon />
         </a>
       </div>
-      <p> &copy; 2025 Keri Medeiros</p>
+      <p className="privacy">
+        <span className="copyright">&copy; 2025 Keri Medeiros</span>
+        <br />
+        <span className="privacyText">
+          This site may use embedded tools to detect unauthorized access or
+          misuse of content. These tools may log IP addresses and browser
+          information for security purposes only and are not used for tracking
+          or marketing.
+        </span>
+      </p>
     </div>
   );
 }

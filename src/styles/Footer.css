@@ -21,6 +21,27 @@
   color: white;
 }
 
+.privacy {
+  font-size: 0.75rem;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+  color: white;
+}
+
+.privacy span {
+  display: block;
+}
+
+.privacy .copyright {
+  color: white;
+}
+
+.privacy .privacyText {
+  font-style: italic;
+  color: white;
+}
+
 @media only screen and (max-width: 600px) {
   .footer svg {
     font-size: 50px;
