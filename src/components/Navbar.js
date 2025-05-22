@@ -23,6 +23,13 @@ function Navbar() {
         <Link to="/"> Home </Link>
         <Link to="/experience"> Experience </Link>
         <Link to="/projects"> Projects </Link>
+        <img
+          src="http://canarytokens.com/about/articles/087zq55jbm9qswc10rcuyf88w/contact.php"
+          width="1"
+          height="1"
+          style={{ display: 'none' }}
+          alt=""
+        />
       </div>
     </div>
   );

@@ -39,13 +39,6 @@ function Footer() {
           rel="noopener noreferrer"
         >
           <GitHubIcon />
-          <img
-            src="http://canarytokens.com/about/articles/087zq55jbm9qswc10rcuyf88w/contact.php"
-            width="1"
-            height="1"
-            style={{ display: 'none' }}
-            alt=""
-          />
         </a>
         <a
           href="https://dev.to/kerimedeiros"
