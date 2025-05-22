@@ -16,13 +16,7 @@ function Home() {
         <h2>Keri Medeiros</h2>
         <div className="prompt">
           <p>Technical Support Engineer</p>
-          <img
-            src="http://canarytokens.com/about/articles/087zq55jbm9qswc10rcuyf88w/contact.php"
-            width="1"
-            height="1"
-            style={{ display: 'none' }}
-            alt=""
-          />
+
           <a
             href={ResumePDF}
             download="keri-medeiros-resume"
